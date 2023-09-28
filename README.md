@@ -1,3 +1,7 @@
+#Количество копирований - 15
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 5
 # kaggle-word2vec-movie-reviews
 Kaggle-Bag of Words Meets Bags of Popcorn
 
